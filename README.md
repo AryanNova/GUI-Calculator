@@ -10,5 +10,4 @@ This is a simple calculator made using python and Tkinter.
    cd GUI-Calculator
  3.Run it:-
    python main.py
-# Screenshot
- ![Calculator Screenshot](screenshot.png)
+   
